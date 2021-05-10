@@ -2,7 +2,7 @@
 Here is where I shaw my projects and I hope we liked.
 If you want to contact me, send a email in plyniohenrique@gmail.com
 
- 🌱 I’m currently learning Java and SQL
+ 🌱 I’m currently learning Java and MongoDB
 <!--
 **PlynioH/PlynioH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
