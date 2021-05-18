@@ -3,6 +3,14 @@ Here is where I shaw my projects and I hope we liked.
 If you want to contact me, send a email in plyniohenrique@gmail.com
 
  🌱 I’m currently learning Python, Java and MongoDB
+ 
+ <table>
+  <tr>
+      <td><img width="477px" align="left" src="https://github-readme-stats.vercel.app/api?username=PlynioH&show_icons=true&theme=default" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlynioH&layout=compact&show_icons=true&theme=default" /></td>
+  </tr>   
+</table>
+
 <!--
 **PlynioH/PlynioH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
