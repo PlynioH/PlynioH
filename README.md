@@ -1,7 +1,8 @@
 ### Hi there, My name is Plynio Henrique, I have 19 years, I'm from São Paulo - Brazil and I'm studying analysis and systems development. 
 Here is where I shaw my projects and I hope we liked.
-If you want to contact me, send a email in plyniohenrique@gmail.com
+If you want to contact me, send a email to plyniohenrique@gmail.com
 
+ 🔭 I’m currently working on school by the city hall 
  🌱 I’m currently learning Python, Java and MongoDB
  
  <table>
