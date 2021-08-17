@@ -3,7 +3,7 @@ Here is where I shaw my projects and I hope we liked.
 If you want to contact me, send a email to plyniohenrique@gmail.com
 
  🔭 I’m currently working on school by the city hall 
- 🌱 I’m currently learning Python, Java and MongoDB
+ 🌱 I’m currently learning Python, React Native and Java Script
  
  <table>
   <tr>
