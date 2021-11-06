@@ -1,9 +1,9 @@
-### Hi there, My name is Plynio Henrique, I have 20 years, I'm from São Paulo - Brazil and I'm studying analysis and systems development. 
-Here is where I shaw my projects and I hope we liked.
+### Hello, My name is Plynio Henrique, I have 20 years, I'm from São Paulo - Brazil and I'm studying analysis and systems development. 
+Here is where I shaw my university and personal projects.
 If you want to contact me, send a email to plyniohenrique@gmail.com
 
  🔭 I’m currently working on school by the city hall 
- 🌱 I’m currently learning Python, React Native and Java Script
+ 🌱 I’m currently learning Python, React Native and Angular
  
  <table>
   <tr>
