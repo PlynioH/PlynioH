@@ -5,6 +5,8 @@ If you want to contact me, send a email to plyniohenrique@gmail.com
  🔭 I’m currently working on school by the city hall 
  🌱 I’m currently learning Python and PHP
  
+ ![](https://komarev.com/ghpvc/?username=PlynioH)
+ 
  <table>
   <tr>
       <td><img width="477px" align="left" src="https://github-readme-stats.vercel.app/api?username=PlynioH&show_icons=true&theme=default" /></td>
