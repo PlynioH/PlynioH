@@ -2,8 +2,8 @@
 Here is where I shaw my university and personal projects.
 If you want to contact me, send a email to plyniohenrique@gmail.com
 
- 🔭 I’m currently working on school by the city hall 
- 🌱 I’m currently learning Python and PHP
+ 🔭 I’m currently working for Autbank
+ 🌱 I’m currently learning Python and Java
  
  ![](https://komarev.com/ghpvc/?username=PlynioH)
  
