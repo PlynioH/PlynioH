@@ -1,4 +1,4 @@
-### Hello, My name is Plynio Henrique, I have 20 years, I'm from São Paulo - Brazil and I'm studying analysis and systems development. 
+### Hello, My name is Plynio Henrique, I have 21 years, I'm from São Paulo - Brazil and I'm java developer. 
 Here is where I shaw my university and personal projects.
 If you want to contact me, send a email to plyniohenrique@gmail.com
 
