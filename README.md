@@ -3,7 +3,7 @@ Here is where I shaw my university and personal projects.
 If you want to contact me, send a email to plyniohenrique@gmail.com
 
  🔭 I’m currently working for Autbank
- 🌱 I’m currently learning Java and Javascript
+ 🌱 I’m currently learning Java, Typescript, React, AutoTest and Flutter
  
  ![](https://komarev.com/ghpvc/?username=PlynioH)
  
