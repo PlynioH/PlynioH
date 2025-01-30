@@ -1,9 +1,9 @@
-### Hello, My name is Plynio Henrique, I have 21 years, I'm from São Paulo - Brazil and I'm java developer. 
+### Hello, My name is Plynio Henrique, I have 23 years, I'm from São Paulo - Brazil and I'm java developer. 
 Here is where I shaw my university and personal projects.
 If you want to contact me, send a email to plyniohenrique@gmail.com
 
  🔭 I’m currently working for Autbank
- 🌱 I’m currently learning Java, Typescript, React, AutoTest and Flutter
+ 🌱 I’m currently learning Java, Javascript and Vue
  
  ![](https://komarev.com/ghpvc/?username=PlynioH)
  
